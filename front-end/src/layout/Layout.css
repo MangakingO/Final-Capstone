@@ -1,0 +1,18 @@
+.side-bar {
+  background-color: #393a44;
+  min-width: 200px;
+}
+
+main {
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  font-family: "Montserrat", sans-serif;
+}
+
+.img-fluid {
+  height: 180px;
+  object-fit: cover;
+  width: 100%;
+}
